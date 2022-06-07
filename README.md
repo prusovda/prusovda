@@ -1,4 +1,3 @@
-https://debank.com/profile/0xe4bfde90e04edac56dec9a27755b0ef860774f9a
 - 👋 Hi, I’m @prusovda
 - 👀 I’m interested in internet marketing
 - 🌱 I’m currently learning blockchain, nodes
